@@ -1,0 +1,7 @@
+# p4-flocking-starter
+
+Title: Fish Behavior with Food
+Description: This project displays and simulates an environment in which a school of fish with a mutable size reacts to their surrounding. The school of fish are bounded by the walls (the size of the canvas) and the sand along the botton of the tank. The fish avoids the seagrass. When food is given, a delicious mealworm, the school of fish swarms in the direction of the food as fast as possible. Normal behavior is displayed after the food is toggled (or presumably finished).
+What is the effect you're trying to achieve? Did you achieve that effect? If not, what was the difficulty/limitation with tools, and what did you end up doing? The effect that I was trying to accomplish is to generate fish behavior as close as it is to real life. This was a really difficult goal as it requires a lot of fine tuning in terms of the fish movement. I believe that I have accomplished it partly, and can do better in terms of having the fish move more naturally when food is toggled. I defenitely wish that I can simulate a 3D fish tank in the future, in which the fish would have 360 degree x-axis spins that demonstrate a more realistic simulation.
+Video and its description: 
+https://www.youtube.com/watch?v=meCpUWk2E0g This video encapsulates a school of piranhas's movement when a wild rasbora fish is present. It inspired me to attempt to recreate a setting in which a school of fish reacts to food. 
